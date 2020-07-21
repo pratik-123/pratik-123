@@ -15,7 +15,7 @@
 	- [LinkedIn](https://www.linkedin.com/in/pratik-lad-3280899b/)
 	- [Twitter](https://twitter.com/Buntylad3)
 
-[![Pratik Lad git-awards](http://git-awards.com/users/search?login=pratik-123)](http://git-awards.com/users/search?login=pratik-123)
+- [Pratik Lad git-awards](http://git-awards.com/users/search?login=pratik-123)
 
 <!--
 	### Hello Friends 👋
