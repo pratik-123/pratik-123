@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hello Friends 👋
+
+![image](https://github.com/pratik-123/pratik-123/blob/master/name.gif)
+
+- 🔭 DEVELOPMENT AREAS : 
+    - Swift, Objective-C
+    - Follow design pattern and architecture pattern with loosely couple code
+    - TDD
+    - CI integration (GitLab/ Jenkins)
+    - Complete knowledge of iOS developing to distributions, Apple Push Notification,
+    In-App Purchase, OAuth, CoreData, HealthKit, Core Animation, Working with Rest/Soup API’s, XML Parser, Map (Apple, Google), Socket Programing, Payment Gateway Integration, AWS, Third party library or Cocoa Touch etc,.
+    -   Learning SwiftUI framework
+
+- 📫 How to reach me :
+[YouTube](https://www.youtube.com/c/PratikLad?sub_confirmation=1)
+[Resume](https://pratik-123.github.io/vcard/)
+[Twitter](https://twitter.com/Buntylad3)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/pratik-lad-3280899b/)
+
+[![Pratik Lad github stats](https://github-readme-stats.vercel.app/api?username=pratik-123)](https://github-readme-stats.vercel.app/api?username=pratik-123)
 
 <!--
 **pratik-123/pratik-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
