@@ -1,12 +1,12 @@
 ![image](https://github.com/pratik-123/pratik-123/blob/master/name.gif)
 
-- 🔭 DEVELOPMENT AREAS : 
+- 🔭 I’m currently working on :
     - Swift, Objective-C
     - Complete knowledge of iOS developing to distributions, Apple Push Notification, In-App Purchase, OAuth, HealthKit, CoreData, Core Animation, Working with Rest/Soup API’s, XML Parser, Map (Apple, Google), Socket Programing, Payment Gateway Integration, AWS, Third party library or Cocoa Touch etc,.
     - Follow design pattern and architecture pattern with loosely couple code
     - TDD
     - CI integration (GitLab/ Jenkins)
-    -   Learning SwiftUI framework
+    - Learning SwiftUI framework
 
 - 📫 How to reach me :
 	- [Resume](https://pratik-123.github.io/vcard/)
