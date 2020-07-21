@@ -10,12 +10,12 @@
     -   Learning SwiftUI framework
 
 - 📫 How to reach me :
-	- [YouTube](https://www.youtube.com/c/PratikLad?sub_confirmation=1)
 	- [Resume](https://pratik-123.github.io/vcard/)
+	- [YouTube](https://www.youtube.com/c/PratikLad?sub_confirmation=1)
+	- [LinkedIn](https://www.linkedin.com/in/pratik-lad-3280899b/)
 	- [Twitter](https://twitter.com/Buntylad3)
-	- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/pratik-lad-3280899b/)
 
-[![Pratik Lad github stats](https://github-readme-stats.vercel.app/api?username=pratik-123)](https://github-readme-stats.vercel.app/api?username=pratik-123)
+[![Pratik Lad git-awards](http://git-awards.com/users/search?login=pratik-123)](http://git-awards.com/users/search?login=pratik-123)
 
 <!--
 	### Hello Friends 👋
