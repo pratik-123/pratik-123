@@ -2,11 +2,10 @@
 
 - 🔭 DEVELOPMENT AREAS : 
     - Swift, Objective-C
+    - Complete knowledge of iOS developing to distributions, Apple Push Notification, In-App Purchase, OAuth, HealthKit, CoreData, Core Animation, Working with Rest/Soup API’s, XML Parser, Map (Apple, Google), Socket Programing, Payment Gateway Integration, AWS, Third party library or Cocoa Touch etc,.
     - Follow design pattern and architecture pattern with loosely couple code
     - TDD
     - CI integration (GitLab/ Jenkins)
-    - Complete knowledge of iOS developing to distributions, Apple Push Notification,
-    In-App Purchase, OAuth, CoreData, HealthKit, Core Animation, Working with Rest/Soup API’s, XML Parser, Map (Apple, Google), Socket Programing, Payment Gateway Integration, AWS, Third party library or Cocoa Touch etc,.
     -   Learning SwiftUI framework
 
 - 📫 How to reach me :
