@@ -16,6 +16,9 @@
 
 - ✨ [Pratik Lad git-awards](http://git-awards.com/users/search?login=pratik-123)
 
+<p> <img src="https://github-readme-stats.vercel.app/api?username=pratik-123&show_icons=true" alt="pratik-123" /> </p>
+
+
 <!--
 	### Hello Friends 👋
 **pratik-123/pratik-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
